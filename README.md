@@ -4,12 +4,10 @@ Project analyzes 200K+ e-commerce interactions to build customer segments and pr
 
 ## Data Science Features
 
-This project includes the following key data science features:
+Key features included in this project:
 
-- **Data Cleaning:** Handling missing values, removing duplicates, and correcting data types.
-- **Exploratory Data Analysis (EDA):** Generating statistical summaries, histograms, and correlation matrices to understand the data.
-- **Feature Engineering:** Creating new features such as `recency`, `frequency`, `monetary`, and `cohort` for better insights.
-- **Data Visualization:** Visualizing trends, distributions, and relationships using plots and charts.
-- **Modeling & Prediction:** Applying machine learning models for classification, regression, or clustering tasks.
-- **Evaluation:** Assessing model performance using appropriate metrics (accuracy, RMSE, F1-score, etc.).
-
+- 🧹 **Data Cleaning & Preprocessing:** Handling missing values, duplicates, and type corrections.
+- 🔍 **Exploratory Data Analysis (EDA):** Insights through statistical summaries and visualizations.
+- ⚙️ **Feature Engineering:** Creation of meaningful features like `recency`, `frequency`, and `monetary`.
+- 📊 **Data Visualization:** Clear charts and plots to explore patterns and trends.
+- 🤖 **Modeling & Evaluation:** Applying ML models and measuring performance with relevant metrics.
